@@ -1,0 +1,91 @@
+
+*{
+    font-family: 'Press Start 2P', cursive;
+    padding: 10px;  
+    margin: 5px;
+}   
+body
+{
+    background-color: black;
+}
+#questText
+{
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+    width: 800px;
+    min-height: 40px;
+    height: auto;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid white;
+}
+#options
+{
+    margin-top:100px;
+    width: 800px;
+    max-width: 80%;
+    color:white;
+    margin: auto;
+    text-align: center;
+}
+input[type="text"] {
+border: 3px solid white;
+background: none;
+color:white;    
+text-align: center;
+height: 5px;
+font-size: large;
+}
+#bttn
+{
+    background-color: transparent;
+    color: white;
+    border: white 3px double;
+    width: 300px;
+
+}
+#inventorySpace
+{
+    width: 600px;
+    height: 80px;
+    margin: auto;
+    border: 3px solid white; 
+    display:block;
+}
+#invBttn 
+{
+    border: white 3px solid;
+    background: transparent;
+    color: white;
+    text-align: center;
+    width: 300px;
+    height: 40px;
+}
+#healthBar
+{
+    border: 3px solid white;
+    width:200px;
+    margin:auto;
+    margin-top: 15px;
+    color: green;
+    text-align: center;
+    
+}
+#stats
+{
+    border: 3px solid white;
+    margin: auto;
+    margin-top: 15px;
+    color: white;
+    text-align: center;
+    width: 400px;
+    height: 15px;
+}
+
+
+
+
+
+
+
